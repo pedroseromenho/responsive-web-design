@@ -1,4 +1,4 @@
-# responsive-web-design
+# Responsive Web Design
 
 [voir le site](https://pedroseromenho.github.io/responsive-web-design/tp_final/)
 
