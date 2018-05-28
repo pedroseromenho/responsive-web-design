@@ -1,5 +1,7 @@
 # responsive-web-design
 
+[voir le site](https://pedroseromenho.github.io/responsive-web-design/rwd/)
+
 1. [Apprendre ici à utiliser le responsive](https://www.w3schools.com/css/css_rwd_mediaqueries.asp).
 2. Exécuter ces quelques exercices pour les prendre en main
 
